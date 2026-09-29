@@ -85,7 +85,7 @@ Projeto demonstrativo sobre seleção, controle, inspeção e acompanhamento de 
 
 [Ver projeto →](./gestao-epi-epc)
 
-### 📊 Indicadores de Segurança do Trabalho
+### Indicadores de Segurança do Trabalho
 
 Projeto demonstrativo sobre organização e acompanhamento de indicadores relacionados à Segurança do Trabalho.
 
